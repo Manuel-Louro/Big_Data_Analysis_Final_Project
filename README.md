@@ -47,9 +47,9 @@ Por agora o `requirements.txt` contém o `ipykernel`, necessário para usar o am
 
 1. Abram a pasta do projeto no VS Code
 2. Abram a paleta de comandos com `Ctrl+Shift+P` (no Mac `Cmd+Shift+P`) e escolhe **Python: Select Interpreter**
-3. Seleciona o Python que está dentro da pasta `.venv`.
-4. Cria ou abre um ficheiro `.ipynb` e escolhe **Select Kernel** > `.venv`.
-5. Para confirmar que está tudo a apontar para o ambiente certo, corram este código numa célula do notebook:
+3. Selecionem o Python que está dentro da pasta `.venv`.
+4. Criem ou abram um ficheiro `.ipynb` e escolham **Select Kernel** > `.venv`.
+5. Para confirmarem que está tudo a apontar para o ambiente certo corram este código numa célula do notebook:
 
 ```python
 import sys
